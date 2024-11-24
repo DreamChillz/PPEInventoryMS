@@ -1,0 +1,3 @@
+H001	General Hospital	123 Main St	Public	general@hospital.com
+H002	City Clinic	456 City Rd	Private	city@clinic.com
+H003	Specialist Center	70 Specialist Ave	Specialized	specialist@center.com

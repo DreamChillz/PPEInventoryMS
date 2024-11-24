@@ -1,0 +1,4 @@
+SUP001	Global Med Supplies	No.15, Jalan SS 3/50, 47300 Petaling Jaya, Selangor	contact@globalmed.com.my	+60 3-7877 1234
+SUP002	Medico Healthcare	145, Jalan Tun Dr.Awam, 11902 Bayan Lepas, Penang	info@medicohealthcare.com	+60 4-641 2211
+SUP003	Healthcare Solutions Malaysia	No.90, Jalan Sultan Ahmad Shah, 10055 Geogetown, Penang	sales@healthcaremy.com	+60 4-119 8888
+SUP004	MedTech Supplies Sdn Bdh	No.35, Jalan TPP 1/5, Taman Perindustrian Puchong, 47000 Puchong, Selangor	support@medtech,com,my	+60 3-8060 4567

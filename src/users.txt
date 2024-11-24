@@ -1,0 +1,6 @@
+kkdetective	Kyoko Kirigiri	kk123	admin	kyoko123@gmail.com	011-3456780
+jacky123	Jacky	jacky123	staff	jacky@gmail.com	014-3456789
+elaineA	Elaine Auclair	van	admin	elaine@gmail.com	017-3456789
+abc	abc	234	admin	abc@gmail.com	017-3483488
+qwe	qwer	123	staff	qwerty@gmail.com	012-4813489
+U008	Halif	cannotsay	staff	halif@gmail.com	010-0101000
